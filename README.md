@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [https://social-links-profile-three-vert.vercel.app/](https://social-links-profile-three-vert.vercel.app/)
+- Live Site URL: [https://recipe-page-main-seven-green.vercel.app/](https://recipe-page-main-seven-green.vercel.app/)
 
 ## My process
 
